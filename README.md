@@ -9,8 +9,8 @@ runnable on its own — even though later versions will replace or extend it.
 
 | Version | Folder                  | Goal                                   | Status  |
 |---------|--------------------------|-----------------------------------------|---------|
-| v1      | `v1_mnist_classifier/`   | Classic MNIST digit classification, MLP baseline | ✅ current |
-| v2+     | (not created yet)        | CNN upgrade, then real-world image data, then robotics-specific CV | 🔲 planned |
+| v1      | `v1_mnist_classifier/`   | Classic MNIST digit classification, MLP baseline | ✅  |
+| v2+     | (not created yet)        | CNN upgrade, then real-world image data, then robotics-specific CV | ✅ |
 
 Future versions (CNNs, feature extraction, SLAM-adjacent CV, etc.) are
 intentionally NOT scaffolded yet — per the "build only what's needed now"
